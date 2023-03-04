@@ -1,0 +1,3 @@
+**Search string used in Scopus to identify vitrimer - related documents (2014 to 2023)**
+
+TITLE-ABS-KEY ( vitrimer )  AND  ( LIMIT-TO ( PUBYEAR ,  2023 )  OR  LIMIT-TO ( PUBYEAR ,  2022 )  OR  LIMIT-TO ( PUBYEAR ,  2021 )  OR  LIMIT-TO ( PUBYEAR ,  2020 )  OR  LIMIT-TO ( PUBYEAR ,  2019 )  OR  LIMIT-TO ( PUBYEAR ,  2018 )  OR  LIMIT-TO ( PUBYEAR ,  2017 )  OR  LIMIT-TO ( PUBYEAR ,  2016 )  OR  LIMIT-TO ( PUBYEAR ,  2015 )  OR  LIMIT-TO ( PUBYEAR ,  2014 ) )  AND  ( LIMIT-TO ( LANGUAGE ,  "English" ) )
